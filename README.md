@@ -2,7 +2,7 @@
 - 👀 I’m interested in Raspberry Pi
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on ATKmode addons and plugins.
-- 📫 How to reach me email emboticc@gmail.com.
+- 📫 How to reach me emboticc@gmail.com.
 
 <!---
 Em8071c/Em8071c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
